@@ -298,11 +298,11 @@ int main() {
     char str[SIZE], key[SIZE];
 
     // Key to be encrypted
-    strcpy(key, "GOKUL");
+    strcpy(key, "SAVEETHA");
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "GOKUL VIJAYA RAMANUJA");
+    strcpy(str, "PRAKASH");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
